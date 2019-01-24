@@ -6,8 +6,8 @@ I trained as an engineer but my professional experience has been in consulting a
 
 # What I hope to learn
 * In my professional life I frequently found it challenging to communicate new insights or findings in a visual medium. 
-The first part of the challenge was in figuring out how best to lay out my idead. 
-Secondly, my audience would typically only know how to read common chart types (eg bar charts) which limited my options. 
+The first part of the challenge was in figuring out how best to lay out my ideas. 
+Secondly, my audience was typically not familiar with non-bar chart visuals which limited my options. 
 * Therefore, my goal is to refine how I communicate complex ideas in a visual medium. I would like to be communicate data insights/predictions/analysis more simply, clearly, and convincingly.
 
 # Portfolio
