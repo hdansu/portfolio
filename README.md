@@ -13,8 +13,8 @@ Secondly, my audience was typically not familiar with non-bar chart visuals whic
 # Portfolio
 My portfolio will be organized in the section below
 
-#OECD Genereal Government Debt
+# OECD Genereal Government Debt
 
-General government-to-GDP ratio
+_General government-to-GDP ratio
 
 <iframe src="https://data.oecd.org/chart/5slM" width="1000" height="750" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5slM" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
