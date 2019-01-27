@@ -17,4 +17,4 @@ My portfolio will be organized in the section below
 
 _General government-to-GDP ratio_
 
-<iframe src="https://data.oecd.org/chart/5slM" width="1000" height="750" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5slM" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
+<iframe src="https://data.oecd.org/chart/5slM" width="750" height="750" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5slM" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
