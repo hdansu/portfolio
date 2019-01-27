@@ -13,8 +13,9 @@ Secondly, my audience was typically not familiar with non-bar chart visuals whic
 # Portfolio
 My portfolio will be organized in the section below
 
-OECD General Government Debt
---------------------------------
+## OECD General Government Debt
+
+
 _Bar Chart of OECD Government debt-to-GDP ratio_
 
 
