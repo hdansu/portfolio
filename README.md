@@ -56,3 +56,4 @@ Text here
 
 ### Comparison of visualization methods
 Text here
+Consider using table here
