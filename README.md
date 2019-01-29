@@ -61,6 +61,7 @@ Reviewing the Infogram Data Visualization Checklist, the following modifications
 RAW automatically assigned diverging color scheme. Given that countries are best thought of as categorical data, I opted for a categorical/qualitative scheme. I selected a qualitative color scheme from ColorBrewer2.0 for 9 data classes and exported hex codes. I re-ordered the order of colors based on a color scheme inspired by documentation from the Vega website. I copied hex codes from ColorBrewer2.0 to RAW. As there were 36 countries, each color was used 4 times. The pattern was applied to sorted list of colors so the effect of reader easily distinguishing  between countries was achieved
 
 http://colorbrewer2.org/#type=qualitative&scheme=Paired&n=9
+
 https://vega.github.io/vega/docs/schemes/
 
 
@@ -75,3 +76,7 @@ Consider using table here
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
+Pros | Cons | Pretty
+--- | --- | ---
+Can interpolate values visually | Does not provide historical trends | nicely
+1 | 2 | 3
