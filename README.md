@@ -66,17 +66,27 @@ https://vega.github.io/vega/docs/schemes/
 
 
 ### Comparison of visualization methods
-Text here
-Consider using table here
 
+**Bar Chart**
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+Pros | Cons
+--- | ---
+Can interpolate values visually | Does not provide historical trends 
+Simple | 
+Readable | 
 
-Pros | Cons | Pretty
---- | --- | ---
-Can interpolate values visually | Does not provide historical trends | nicely
-1 | 2 | 3
+**Beeswarm plot**
+
+Pros | Cons
+--- | ---
+Bubble size = values | Diminished readability due to scrolling to see all the data
+Good for time series | Alphabetical ordering does not aid storytelling
+ | Hard to compare bubble sizes across countries
+ | Macro story hard (all OECD) is hard to tell
+ 
+ **Area Graph**
+
+Pros | Cons
+--- | ---
+Countries can be compared both historically and currently | Relative scale. Exact values cannot be read off chart
+Individual time series for each country | Alphabetical ordering does not aid storytelling
