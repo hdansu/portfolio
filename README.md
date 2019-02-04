@@ -110,8 +110,6 @@ Source: https://www.sec.gov/Archives/edgar/data/1701114/000104746917003765/a2232
 ### Wireframe
 ![Redesign of Blue Apron KPI visualization](/Blue_Apron_Redesign_Wireframe.jpeg)
 
-
-
 ### Solution Testing
 
 ### Redesign
