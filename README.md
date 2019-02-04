@@ -94,6 +94,10 @@ Individual time series for each country | Alphabetical ordering does not aid sto
 
 
 
+***
+
+
+
 ## Assignment 3 & 4: Critique by Redesign
 
 ### A Redesign of Blue Apron's pre-IPO KPIs
