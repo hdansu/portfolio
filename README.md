@@ -102,6 +102,11 @@ Individual time series for each country | Alphabetical ordering does not aid sto
 
 ### A Redesign of Blue Apron's pre-IPO KPIs
 
+I selected this visualization because XXX
+
+According to Blue Apron, this data was hared to enable investors to "evaluate our business and operations, measure our performance, identify trends affecting our business, project our future performance, and make strategic decisions."
+
+
 On page 60 of the S-1 filing, Blue Apron shared the following summary of their Operating Metrics
 
 Source: https://www.sec.gov/Archives/edgar/data/1701114/000104746917003765/a2232259zs-1.htm
@@ -114,5 +119,10 @@ Source: https://www.sec.gov/Archives/edgar/data/1701114/000104746917003765/a2232
 
 ### Redesign
 
+**Operating Metrics**
+
 <div class="infogram-embed" data-id="4f0ec84e-7dbc-4bfd-a8e9-83fe9e8257eb" data-type="interactive" data-title="blue_apron_orders"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script")[0],d=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=d+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var r=e.createElement("script");r.async=1,r.id=s,r.src=i,o.parentNode.insertBefore(r,o)}}(document,0,"infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/4f0ec84e-7dbc-4bfd-a8e9-83fe9e8257eb" style="color:#989898!important;text-decoration:none!important;" target="_blank">blue_apron_orders</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+
+
+<div class="infogram-embed" data-id="f424eb6e-f941-411e-ac07-af9a09e6fe29" data-type="interactive" data-title="Copy: blue_apron_orders"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script")[0],d=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=d+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var r=e.createElement("script");r.async=1,r.id=s,r.src=i,o.parentNode.insertBefore(r,o)}}(document,0,"infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/f424eb6e-f941-411e-ac07-af9a09e6fe29" style="color:#989898!important;text-decoration:none!important;" target="_blank">Copy: blue_apron_orders</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
