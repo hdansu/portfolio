@@ -91,3 +91,13 @@ Pros | Cons
 --- | ---
 Countries can be compared both historically and currently | Relative scale. Exact values cannot be read off chart
 Individual time series for each country | Alphabetical ordering does not aid storytelling
+
+
+
+## Assignment 3 & 4: Critique by Redesign
+
+### A Redesign of Blue Apron's pre-IPO KPIs
+
+On page 60 of the S-1 filing, Blue Apron shared the following summary of their Operating Metrics
+
+Source: https://www.sec.gov/Archives/edgar/data/1701114/000104746917003765/a2232259zs-1.htm
