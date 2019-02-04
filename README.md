@@ -105,3 +105,12 @@ Individual time series for each country | Alphabetical ordering does not aid sto
 On page 60 of the S-1 filing, Blue Apron shared the following summary of their Operating Metrics
 
 Source: https://www.sec.gov/Archives/edgar/data/1701114/000104746917003765/a2232259zs-1.htm
+
+
+### Wireframe
+
+
+
+### Solution Testing
+
+### Redesign
