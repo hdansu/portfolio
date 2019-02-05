@@ -104,14 +104,13 @@ Individual time series for each country | Alphabetical ordering does not aid sto
 
 Blue Apron's stock price dropped about 70% in the year following it's initial public offering. The relatively sudden change in investor's outlook for the company suggested that both institutional and individual investors may not have fully understood the firm's performance and trends pre-IPO
 
-I chose to redesign the key summary table from page 60 of Blue Apron's S-1 filing. The Form S-1 is an SEC requirement for companies planning on going public. The S-1 contains the company's basic business and financial information and is intended to assist investors in their evaluation of the business and to subsequently make educated investment decisions(https://en.wikipedia.org/wiki/Form_S-1).
+I chose to redesign the key summary table from page 60 of [Blue Apron's S-1 filing.](https://www.sec.gov/Archives/edgar/data/1701114/000104746917003765/a2232259zs-1.htm#cq16601_management_s_discussion_and_an__man03466) The Form S-1 is an SEC requirement for companies planning on going public. The S-1 contains the company's basic business and financial information and is intended to assist investors in their evaluation of the business and to subsequently make educated investment decisions(https://en.wikipedia.org/wiki/Form_S-1).
 
 ![Blue Apron pre-IPO KPIs](/Operating_Metrics_table.JPG)
 Operating_Metrics_table.JPG
 
 A careful analysis of the pre-IPO metrics showed that while topline growth was increasing, customer engagement and profitability were decreasing. These trends were not easily recognizable in the table visualization. The goal of my redesign is to create a visualization that would have highlighted the key trends to prospective Blue Apron investors.
 
-[Blue Apron S-1](https://www.sec.gov/Archives/edgar/data/1701114/000104746917003765/a2232259zs-1.htm#cq16601_management_s_discussion_and_an__man03466)
 
 
 ### Wireframe
