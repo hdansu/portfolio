@@ -108,7 +108,7 @@ I chose to redesign the key summary table from page 60 of Blue Apron's S-1 filin
 
 A careful analysis of the pre-IPO metrics showed that while topline growth was increasing, customer engagement and profitability were decreasing. These trends were not easily recognizable in the table visualization. The goal of my redesign is to create a visualization that would have highlighted the key trends to prospective Blue Apron investors.
 
-Blue Apron S-1: https://www.sec.gov/Archives/edgar/data/1701114/000104746917003765/a2232259zs-1.htm
+Blue Apron S-1: https://www.sec.gov/Archives/edgar/data/1701114/000104746917003765/a2232259zs-1.htm#cq16601_management_s_discussion_and_an__man03466
 
 
 ### Wireframe
