@@ -102,7 +102,7 @@ Individual time series for each country | Alphabetical ordering does not aid sto
 
 ### A Redesign of Blue Apron's pre-IPO KPIs
 
-Blue Apron's stock price dropped about 70% in the year following it's initial public offering. The relatively sudden change in investor's outlook for the company suggested that both institutional and individual investors may not have fully understood the firm's performance and trends pre-IPO
+Blue Apron's stock price dropped about 70% in the year following it's initial public offering. Meanwhile, the composite index of the New York Stock Exchange (the exchange Blue Apron listed on) inched up 6% over the same period. The relatively sudden change in investor's outlook for the company suggested that both institutional and individual investors may not have fully understood the firm's performance and trends pre-IPO
 
 I chose to redesign the key summary table from page 60 of [Blue Apron's S-1 filing.](https://www.sec.gov/Archives/edgar/data/1701114/000104746917003765/a2232259zs-1.htm#cq16601_management_s_discussion_and_an__man03466) The Form S-1 is an SEC requirement for companies planning on going public. The S-1 contains the company's basic business and financial information and is intended to assist investors in their evaluation of the business and to subsequently make educated investment decisions(https://en.wikipedia.org/wiki/Form_S-1).
 
@@ -122,7 +122,7 @@ I shared my wireframe with two people. Summary of their feedback is below:
 
 * Can you tell me what you think this is?<br/>
 Person 1: "Is this one of those market place models where the customer is the seller? Is that why there’s a metric for customer revenue?"<br/>
-Person 2: "I think the [it] is 2017 sales data"<br/>
+Person 2: "I think the it is 2017 sales data"<br/>
 
 * Can you describe to me what this is telling you?<br/>
 Person 1: "Customers may be increasing but it looks like you have more new customers than repeat customers."<br/>
@@ -146,10 +146,10 @@ Biggest takeaways from respondents was that while totals (customers, orders,etc)
 
 <div class="infogram-embed" data-id="6145571f-85e7-400a-b7c8-a3f842753fd0" data-type="interactive" data-title="KPIs. Source: https://www.sec.gov/Archives/edgar/data/1701114/000104746917003765/a2232259zs-1.htm"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script")[0],d=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=d+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var r=e.createElement("script");r.async=1,r.id=s,r.src=i,o.parentNode.insertBefore(r,o)}}(document,0,"infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/6145571f-85e7-400a-b7c8-a3f842753fd0" style="color:#989898!important;text-decoration:none!important;" target="_blank">KPIs. Source: https://www.sec.gov/Archives/edgar/data/1701114/000104746917003765/a2232259zs-1.htm</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
-* Although the visual captured the fact that total were growing while averages had decreased, it did not provide the overall view that an investor would want in deciding whether results were due to a single bad quarter or due to  a long-term trend.
+* Although the visual showed totals were growing while averages had decreased, it did not provide the overall view that an investor would want in deciding whether results were due to a single bad quarter or due to  a long-term trend.
 * It may also be difficult for the reader to pair a metric showing totals with the corresponding metric showing averages.
 
-### Final Redesign 1
+### Final Redesign
 
 **Blue Apron Operating Metrics (Jan 1, 2016 to March 31, 2017)**
 
