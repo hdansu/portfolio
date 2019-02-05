@@ -142,7 +142,14 @@ Person 2: " I think I would probably try to use fewer graphs. Like multiple bars
 
 Biggest takeaways from respondents was that while totals (customers, orders,etc) were growing, the average values were dropping. My intended goal of highlighting the discrepancies between topline and per-units trends was achieved. However, the 2x3 grid chart seemed inefficient and not easy to read for the investor audience
 
-### Redesign
+### Draft Redesign
+
+<div class="infogram-embed" data-id="6145571f-85e7-400a-b7c8-a3f842753fd0" data-type="interactive" data-title="KPIs. Source: https://www.sec.gov/Archives/edgar/data/1701114/000104746917003765/a2232259zs-1.htm"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script")[0],d=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=d+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var r=e.createElement("script");r.async=1,r.id=s,r.src=i,o.parentNode.insertBefore(r,o)}}(document,0,"infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/6145571f-85e7-400a-b7c8-a3f842753fd0" style="color:#989898!important;text-decoration:none!important;" target="_blank">KPIs. Source: https://www.sec.gov/Archives/edgar/data/1701114/000104746917003765/a2232259zs-1.htm</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+
+* Although the visual captured the fact that total were growing while averages had decreased, it did not provide the overall view that an investor would want in deciding whether results were due to a single bad quarter or due to  a long-term trend.
+* It may also be difficult for the reader to pair a metric showing totals with the corresponding metric showing averages.
+
+### Final Redesign 1
 
 **Blue Apron Operating Metrics (Jan 1, 2016 to March 31, 2017)**
 
