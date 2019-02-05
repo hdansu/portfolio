@@ -106,6 +106,9 @@ Blue Apron's stock price dropped about 70% in the year following it's initial pu
 
 I chose to redesign the key summary table from page 60 of Blue Apron's S-1 filing. The Form S-1 is an SEC requirement for companies planning on going public. The S-1 contains the company's basic business and financial information and is intended to assist investors in their evaluation of the business and to subsequently make educated investment decisions(https://en.wikipedia.org/wiki/Form_S-1).
 
+![Blue Apron pre-IPO KPIs](/Operating_Metrics_table.JPG)
+Operating_Metrics_table.JPG
+
 A careful analysis of the pre-IPO metrics showed that while topline growth was increasing, customer engagement and profitability were decreasing. These trends were not easily recognizable in the table visualization. The goal of my redesign is to create a visualization that would have highlighted the key trends to prospective Blue Apron investors.
 
 Blue Apron S-1: https://www.sec.gov/Archives/edgar/data/1701114/000104746917003765/a2232259zs-1.htm#cq16601_management_s_discussion_and_an__man03466
@@ -142,7 +145,7 @@ Biggest takeaways from respondents was that while totals (customers, orders,etc)
 
 ### Redesign
 
-**Operating Metrics**
+**Blue Apron Operating Metrics (Jan 1, 2016 to March 31, 2017)**
 
 
 <div class="infogram-embed" data-id="4f0ec84e-7dbc-4bfd-a8e9-83fe9e8257eb" data-type="interactive" data-title="Orders &amp;amp; AOV. Source: https://www.sec.gov/Archives/edgar/data/1701114/000104746917003765/a2232259zs-1.htm"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script")[0],d=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=d+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var r=e.createElement("script");r.async=1,r.id=s,r.src=i,o.parentNode.insertBefore(r,o)}}(document,0,"infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/4f0ec84e-7dbc-4bfd-a8e9-83fe9e8257eb" style="color:#989898!important;text-decoration:none!important;" target="_blank">Orders & AOV. Source: https://www.sec.gov/Archives/edgar/data/1701114/000104746917003765/a2232259zs-1.htm</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
