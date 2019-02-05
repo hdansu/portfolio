@@ -118,25 +118,25 @@ Blue Apron S-1: https://www.sec.gov/Archives/edgar/data/1701114/0001047469170037
 
 I shared my wireframe with two people. Summary of their feedback is below:
 
-* Can you tell me what you think this is?&nbsp;
-Person 1: "Is this one of those market place models where the customer is the seller? Is that why there’s a metric for customer revenue?"\
-Person 2: "I think the [it] is 2017 sales data"\
+* Can you tell me what you think this is?<br/>
+Person 1: "Is this one of those market place models where the customer is the seller? Is that why there’s a metric for customer revenue?"<br/>
+Person 2: "I think the [it] is 2017 sales data"<br/>
 
-* Can you describe to me what this is telling you?&nbsp;
-Person 1: "Customers may be increasing but it looks like you have more new customers than repeat customers."\
-Person 2: "Revenue and customers are growing. But customers are ordering cheaper or fewer things and less often."\
+* Can you describe to me what this is telling you?<br/>
+Person 1: "Customers may be increasing but it looks like you have more new customers than repeat customers."<br/>
+Person 2: "Revenue and customers are growing. But customers are ordering cheaper or fewer things and less often."<br/>
 
-* Is there anything you find surprising or confusing?&nbsp;
-Person 1: "If revenue is increasing shouldn’t your order value do the same?"\
-Person 2: "Surprising that revenue is increasing"\
+* Is there anything you find surprising or confusing?<br/>
+Person 1: "If revenue is increasing shouldn’t your order value do the same?"<br/>
+Person 2: "Surprising that revenue is increasing"<br/>
 
-* Who do you think is the intended audience for this?&nbsp;
-Person 1: "An investor? Shareholders?"\
-Person 2: "Intended audience isss people that care about revenue and customers. So maybe marketing or sales"\
+* Who do you think is the intended audience for this?<br/>
+Person 1: "An investor? Shareholders?"<br/>
+Person 2: "Intended audience isss people that care about revenue and customers. So maybe marketing or sales"<br/>
 
-* Is there anything you would change or do differently?&nbsp;
-Person 1: ""If this is the amazon model it could make sense."\
-Person 2: " I think I would probably try to use fewer graphs. Like multiple bars in one chart or adding a line graph"\
+* Is there anything you would change or do differently?<br/>
+Person 1: ""If this is the amazon model it could make sense."<br/>
+Person 2: " I think I would probably try to use fewer graphs. Like multiple bars in one chart or adding a line graph"<br/>
 
 Biggest takeaways from respondents was that while totals (customers, orders,etc) were growing, the average values were dropping. My intended goal of highlighting the discrepancies between topline and per-units trends was achieved. However, the 2x3 grid chart seemed inefficient and not easy to read for the investor audience
 
