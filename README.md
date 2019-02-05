@@ -116,6 +116,28 @@ Blue Apron S-1: https://www.sec.gov/Archives/edgar/data/1701114/0001047469170037
 
 ### Solution Testing
 
+I shared my wireframe with two people. Summary of their feedback is below:
+
+* Can you tell me what you think this is?
+Person 1: "Is this one of those market place models where the customer is the seller? Is that why there’s a metric for customer revenue?"
+Person 2: "I think the [it] is 2017 sales data"
+
+* Can you describe to me what this is telling you?
+Person 1: "Customers may be increasing but it looks like you have more new customers than repeat customers."
+Person 2: "Revenue and customers are growing. But customers are ordering cheaper or fewer things and less often."
+
+* Is there anything you find surprising or confusing?
+Person 1: "If revenue is increasing shouldn’t your order value do the same?"
+Person 2: "Surprising that revenue is increasing"
+
+* Who do you think is the intended audience for this?
+Person 1: "An investor? Shareholders?"
+Person 2: "Intended audience isss people that care about revenue and customers. So maybe marketing or sales"
+
+* Is there anything you would change or do differently?
+Person 1: ""If this is the amazon model it could make sense."
+Person 2: " I think I would probably try to use fewer graphs. Like multiple bars in one chart or adding a line graph"
+
 ### Redesign
 
 **Operating Metrics**
@@ -128,4 +150,6 @@ Blue Apron S-1: https://www.sec.gov/Archives/edgar/data/1701114/0001047469170037
 
 
 <div class="infogram-embed" data-id="7d90ef8e-db70-4644-920f-d5470a4b7ee5" data-type="interactive" data-title="Revenue &amp;amp; ARPC. Source: https://www.sec.gov/Archives/edgar/data/1701114/000104746917003765/a2232259zs-1.htm"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script")[0],d=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=d+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var r=e.createElement("script");r.async=1,r.id=s,r.src=i,o.parentNode.insertBefore(r,o)}}(document,0,"infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/7d90ef8e-db70-4644-920f-d5470a4b7ee5" style="color:#989898!important;text-decoration:none!important;" target="_blank">Revenue & ARPC. Source: https://www.sec.gov/Archives/edgar/data/1701114/000104746917003765/a2232259zs-1.htm</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+
+
 
