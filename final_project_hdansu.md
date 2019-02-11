@@ -1,11 +1,3 @@
-# Outline
-
-The outline of your final project should serve as the building blocks for the rest of your presentation.  In week 4 you're introduced to Shorthand (Links to an external site.)Links to an external site. as one option you have at your disposal for creating your final project deliverable.  Shorthand also has a handy template you can reference for creating an outline of your projectPreview the document.  Your outline should be a document that you can later use to help fill in some of the details around your project.  
-
-At a minimum, you should include the following: 
-
-    A high-level summary of your project.  This should be a sentence or two that describes what you're interested in showing with your final project.
-    A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe the story arc that you hope to achieve.  
 
 ## Project Name: **Exploring the Entrepreneurship Landscape in America**
 
@@ -16,21 +8,21 @@ The key points to cover in this story will be:
 * Source and amount of seed capital
 * Reasons for owning business
 
-Good Charts text talks about story structure in Chapter 8 - you should describe the story arc that you hope to achieve.
+**Good Charts text talks about story structure in Chapter 8 - you should describe the story arc that you hope to achieve.**
 
 ## Key Dates & Deadlines
 
 ![Project Timeline](/DataViz timeline.JPG)
 
 ## Challenges
-Finding accurate data
-Munging data from disparate sources
-Data might not confirm the story I want to present which would complicate my narrative.
 
-**NEED TO ADD MITIGATION**
+Challenge | Mitigation
+--- | ---
+Finding accurate data | Use only reliable data sources such as Census Bureau data
+Data might not confirm the story I want to present | Final narrative after preliminary data analysis
 
 ## Measuring success
-User research with 3-5 individuals to understand story they believe I am telling. This will be supplemented with hallway feedback
+User research with 3-5 individuals with open ended questions supplemented with hallway feedback
 
 
 # The Data
@@ -38,7 +30,7 @@ User research with 3-5 individuals to understand story they believe I am telling
 This project will primary use data from the Annual Survey of Entrepreneurs conducted by the 
 US Census Bureau. 
 
-Sources:
+Sources:<br/>
 United States Census Bureau. (2016). _Annual Survey of Entrepreneurs (ASE) - Company Summary: 2016 Tables_[Data files]. Retrieved from https://www.census.gov/data/tables/2016/econ/ase/allcompanytables.html
 
 United States Census Bureau. (2016). _Annual Survey of Entrepreneurs (ASE) - Characteristics of Businesses: 2016 Tables_[Data files]. Retrieved from https://www.census.gov/data/tables/2016/econ/ase/2016-ase-characteristics.html
@@ -61,4 +53,5 @@ I intend to use Shorthand for my visual storytelling. I plan to generate static 
 * D3.js
 * Vega
 * Highcharts.js
+<br/>
 I will also consider interactivity if it enhances my storytelling and I can find the right data and tools to implement it.
