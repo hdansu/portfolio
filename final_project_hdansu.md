@@ -3,12 +3,16 @@
 
 ## Project structure
 
+The structure of my story will be as follows:
+**Setup:** Entrepreneurship is presented as a very narrow and specific process in terms of industry, founder background, and funding
+**Conflict:** Challenge perception by showing the scope of backgrounds who found businesses and do it in different ways
+**Resolution:** Starting your own business is an achieveable goal that the reader should consider
+
 The key points to cover in this story will be:
 * Age, Gender, Ethnicity, Race, Education and Veteran Status of business founders (most recently available)
 * Source and amount of seed capital
 * Reasons for owning business
 
-**Good Charts text talks about story structure in Chapter 8 - you should describe the story arc that you hope to achieve.**
 
 ## Key Dates & Deadlines
 
@@ -53,5 +57,7 @@ I intend to use Shorthand for my visual storytelling. I plan to generate static 
 * D3.js
 * Vega
 * Highcharts.js
+
 <br/>
+
 I will also consider interactivity if it enhances my storytelling and I can find the right data and tools to implement it.
