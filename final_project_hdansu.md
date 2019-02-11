@@ -59,5 +59,4 @@ I intend to use Shorthand for my visual storytelling. I plan to generate static 
 * Highcharts.js
 
 <br/>
-
 I will also consider interactivity if it enhances my storytelling and I can find the right data and tools to implement it.
