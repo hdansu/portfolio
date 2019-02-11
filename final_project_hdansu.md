@@ -7,17 +7,58 @@ At a minimum, you should include the following:
     A high-level summary of your project.  This should be a sentence or two that describes what you're interested in showing with your final project.
     A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe the story arc that you hope to achieve.  
 
-# The data
+## Project Name: **Exploring the Entrepreneurship Landscape in America**
 
-It's critical that you identify a data source in the first week.  To be successful in the final project, you'll need to get a copy of the data you'll need for your final project, or recreate it based on various sources.  Make sure in all cases to record your sources and cite these data sources appropriately. 
+## Project structure
 
-At a minimum, you should include the following: 
+The key points to cover in this story will be:
+* Age, Gender, Ethnicity, Race, Education and Veteran Status of business founders (most recently available)
+* Source and amount of seed capital
+* Reasons for owning business
 
-## A short paragraph that documents your data source(s), and an explanation of how you plan on using your data. 
-## A link to the publicly-accessible data you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+Good Charts text talks about story structure in Chapter 8 - you should describe the story arc that you hope to achieve.
+
+## Key Dates & Deadlines
+
+![Project Timeline](/DataViz timeline.JPG)
+
+## Challenges
+Finding accurate data
+Munging data from disparate sources
+Data might not confirm the story I want to present which would complicate my narrative.
+
+**NEED TO ADD MITIGATION**
+
+## Measuring success
+User research with 3-5 individuals to understand story they believe I am telling. This will be supplemented with hallway feedback
+
+
+# The Data
+
+This project will primary use data from the Annual Survey of Entrepreneurs conducted by the 
+US Census Bureau. 
+
+Sources:
+United States Census Bureau. (2016). _Annual Survey of Entrepreneurs (ASE) - Company Summary: 2016 Tables_[Data files]. Retrieved from https://www.census.gov/data/tables/2016/econ/ase/allcompanytables.html
+
+United States Census Bureau. (2016). _Annual Survey of Entrepreneurs (ASE) - Characteristics of Businesses: 2016 Tables_[Data files]. Retrieved from https://www.census.gov/data/tables/2016/econ/ase/2016-ase-characteristics.html
+
+United States Census Bureau. (2016). _Annual Survey of Entrepreneurs (ASE) - Characteristics of Business Owners: 2016 Tables_[Data files]. Retrieved from https://www.census.gov/data/tables/2016/econ/ase/2016-ase-characteristics-of-businesses.html
+
+I will also attempt to validate my analysis against other publicly available entrepreneurship research (e.g. [The Kauffman Index Entrepreneurship Series)](https://www.kauffman.org/kauffman-index)
+
+I will conduct exploratory data analysis on the different data sets and attempt to combine datasets where it makes sense to understand sub-segments. Where possible I will also examine summary statistics and/or trends at the state level.
+
+Downloaded csv files for data I have already accessed can be found [here.](https://drive.google.com/open?id=1W_cTRHZG1Z2jgojnfvCO1VtDU7o-gh2r)
+
 
 # Method and medium
 
-In a few paragraphs, you should document how you plan on completing your final project.  One option we've already discussed is building a story using your data using Shorthand - but this is my no means your only option.  You may select another digital platform (e.g. Esri's Story Maps, etc.), or you may propose doing something else entirely (AR / VR, mixed media, etc.).  If you choose to do something significantly outside of the technologies we've introduced in this course, please talk to me first.  I'd like all final projects to be documented digitally, so if you create something using physical materials  or more immersive, you may need to also create a video recording of your story. 
-
-Finally, for your final project I'd discourage an over-reliance on PowerPoint slides. If you need to use a few slides to frame the context of your final project for your presentation that's ok - but I'd rather you create something that can live beyond the course and benefit you later that won't require a future employer browsing through yet another PowerPoint deck.  
+I intend to use Shorthand for my visual storytelling. I plan to generate static charts and graphs that I will upload to Shorthand. I will be exploring several tools to create these charts including:
+* Datawapper
+* Infogram
+* Tableau
+* D3.js
+* Vega
+* Highcharts.js
+I will also consider interactivity if it enhances my storytelling and I can find the right data and tools to implement it.
