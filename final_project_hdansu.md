@@ -3,10 +3,10 @@
 
 ## Project structure
 
-The structure of my story will be as follows:
-**Setup:** Entrepreneurship is presented as a very narrow and specific process in terms of industry, founder background, and funding
-**Conflict:** Challenge perception by showing the scope of backgrounds who found businesses and do it in different ways
-**Resolution:** Starting your own business is an achieveable goal that the reader should consider
+The structure of my story will be as follows:<br/>
+**Setup:** Entrepreneurship is presented as a very narrow and specific process in terms of industry, founder background, and funding.<br/> 
+**Conflict:** Challenge perception by showing the scope of backgrounds who found businesses and do it in different ways.<br/>
+**Resolution:** Starting your own business is an achieveable goal that the reader should consider.<br/>
 
 The key points to cover in this story will be:
 * Age, Gender, Ethnicity, Race, Education and Veteran Status of business founders (most recently available)
