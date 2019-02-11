@@ -9,10 +9,10 @@ The structure of my story will be as follows:<br/>
 **Resolution:** Starting your own business is an achieveable goal that the reader should consider.<br/>
 
 The key points to cover in this story will be:
-* Age, Gender, Ethnicity, Race, Education and Veteran Status of business founders (most recently available)
+* Age, Gender, Ethnicity, Race, Education and Veteran Status of business founders 
 * Source and amount of seed capital
 * Reasons for owning business
-
+* Industries & Geographies
 
 ## Key Dates & Deadlines
 
