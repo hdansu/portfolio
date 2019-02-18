@@ -1,3 +1,4 @@
+# Part 1
 
 ## Project Name: **Exploring the Entrepreneurship Landscape in America**
 
@@ -60,3 +61,36 @@ I intend to use Shorthand for my visual storytelling. I plan to generate static 
 
 <br/>
 I will also consider interactivity if it enhances my storytelling and I can find the right data and tools to implement it.
+
+***
+
+# Part II
+
+Sketches
+Wireframes 
+Storyboards
+
+## Story Outline
+
+Developed story outline and relevant components you proposed in Part I visually through the use of sketches and storyboards. 
+
+Sketches should be individual draft data visualizations of the critical elements of your story you want to share with your reader. 
+(use draft versions of visualizations as sketches).
+
+## User Research Protocol
+Develop a user research protocol and documented findings l for showing your early sketches, storyboards and wireframes to 3 - 5 individuals.  Your user research protocol should identify the following: 
+
+### Target audience you hope to reach with your story
+
+### Approach to identifying representative individuals to interview
+
+### Interview script
+### Findings from your interviews
+### Changes implemented to sketches, storyboards and wireframes to address the issues identified.
+
+##
+
+3. Begin developing your sketches and breaking down storyboards into wireframes, reflecting what you've identified and learned through your user research.   For the purpose of this assignment, your wireframes should essentially be an early draft of your final project that includes your project outline, sketches, and brings your storyboards to life.  For most of you this will mean that you've created a digital outline or shell that you can then begin to further refine and improve heading into Part III, but it should begin to feel complete enough that an external reviewer can easily tell how you're beginning to craft yours story. 
+
+Therefore you should begin taking your outline and building out the structure of your story into whatever you identified in your Part I proposal.   
+
