@@ -82,6 +82,8 @@ Develop a user research protocol and documented findings l for showing your earl
 
 ### Target audience you hope to reach with your story
 
+Use persona tool?
+
 ### Approach to identifying representative individuals to interview
 
 ### Interview script
