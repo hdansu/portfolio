@@ -84,9 +84,13 @@ Develop a user research protocol and documented findings l for showing your earl
 
 Use persona tool?
 
+
+[User research approach & script](/user_research_plan.md)
+
 ### Approach to identifying representative individuals to interview
 
 ### Interview script
+
 ### Findings from your interviews
 ### Changes implemented to sketches, storyboards and wireframes to address the issues identified.
 
