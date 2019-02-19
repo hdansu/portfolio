@@ -3,42 +3,45 @@
 
 Goals | Questions
 --- | ---
-Finding accurate data | Use only reliable data sources such as Census Bureau data
-Data might not confirm the story I want to present | Final narrative after preliminary data analysis
+Quality of storytelling | Is the overall story being told clear and compelling?
+Clarity of Visuals | Do individuals graphs/chart convey the intended message?
+Message resonance | What message does a reader take away?
 
-# Format/Background
-
-Ad-hoc 1:1 Interviews using similar, open ended questions from Workshop, or earlier questions from our research (Jamie / Alex)
-
+# Format
 
 ## Participants
-My approach to identifying representative individuals to interview was to recruit individuals who:
-
-Have little to know knowledge of the government funding, especially the SBIR and STTR programs,
-Have some exposure to government funding and or the program, but have not considered applying,
-Have not successfully participated in the SBIR and STTR programs previously, or
-Did not respond to the recent NASA request for information
+My approach to identifying representative individuals to interview was to recruit 3 individuals who met the following criteria:
+* Ages 22 to 34
+* Associate's degree or higher
+* Are not professional designers or data visualization experts
 
 ## Metrics:
-What are participants' current thoughts about government funding for small businesses and entrepreneurs?
-What do potential program participants need and want from a government funded program? Why?
-What do participants know about the NASA SBIR and STTR programs? What would they change?
+Does a reader understand the current entrepreneurship landscape after reading this?
+Does the reader feel that starting a business is a reasonable goal for most people including him/herself?
 
 # Script
 
 ## Introduction
-Thank you so much for taking time out of your day to participate in this interview. My objective today is to get feedback on XXX.
-Please let me know if you have any questions or concerns at any time during our conversation. Thank you. Do you have any questions before we get started?
+Thank you so much for taking time out of your day to participate in this interview. My objective today is to get feedback on a series of visualizations. Please let me know if you have any questions or concerns at any time during our conversation. 
+
+Thank you. Do you have any questions before we get started?
 
 ## Questions
+### Storyboard questions
+I. What do you think is the overall message?
+II. Did you identify different sections in the story?
+III. yes, what did you think the different sections were?
 
-1. X
-2. X
+### Individual chart questions
+1. Can you tell me what you think this is?
+2. Can you describe to me what it is telling you?
+3. Who do you think is the intended audience for this?
+4. Is there anything you find surprising or confusing?
+5. Is there anything you would change or do differently?
 
 Follow up prompts:
-*
-*
-*
+* Can you tell me why you think that?
+* Can you explain that?
 
 
 Adaped from:
