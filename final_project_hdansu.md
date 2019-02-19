@@ -69,10 +69,7 @@ I will also consider interactivity if it enhances my storytelling and I can find
 
 ## Story Outline
 
-Developed story outline and relevant components you proposed in Part I visually through the use of sketches and storyboards. 
-
-Sketches should be individual draft data visualizations of the critical elements of your story you want to share with your reader. 
-(use draft versions of visualizations as sketches).
+![Storyboard](/storyboard.JPG)
 
 ### Target audience
 
