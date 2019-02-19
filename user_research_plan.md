@@ -1,10 +1,10 @@
 
-# Reasearch Goals
+# Research Goals
 
 Goals | Questions
 --- | ---
 Quality of storytelling | Is the overall story being told clear and compelling?
-Clarity of Visuals | Do individuals graphs/chart convey the intended message?
+Clarity of Visuals | Are graphs/chart conveying the intended message?
 Message resonance | What message does a reader take away?
 
 # Format
