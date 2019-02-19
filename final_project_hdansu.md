@@ -74,7 +74,7 @@ Developed story outline and relevant components you proposed in Part I visually 
 Sketches should be individual draft data visualizations of the critical elements of your story you want to share with your reader. 
 (use draft versions of visualizations as sketches).
 
-### Target audience you hope to reach with your story
+### Target audience
 
 ![Target Audience](/persona.JPG)
 
