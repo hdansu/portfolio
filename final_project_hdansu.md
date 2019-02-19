@@ -76,32 +76,30 @@ Sketches should be individual draft data visualizations of the critical elements
 
 ### Target audience you hope to reach with your story
 
-Use persona tool?
+![Target Audience](/persona.JPG)
+
 
 ## Sketches
 
-[Sketches shown to testees](https://preview.shorthand.com/UKh7Q6wj7XydRGri)
+[Sketches shown to respondents](https://preview.shorthand.com/UKh7Q6wj7XydRGri)
 
 
 
 
-## User Research Protocol
-Develop a user research protocol and documented findings l for showing your early sketches, storyboards and wireframes to 3 - 5 individuals.  Your user research protocol should identify the following: 
+## User Research
 
 [User research approach & script](/user_research_plan.md)
 
-### Approach to identifying representative individuals to interview
 
-### Interview script
+### Condensed findings from interviews
+* Respondents thought the story was to provide statistics on the state of entrepreneurship
+* The story felt "uneven" to most of the readers. The text introduction did not seem connected to the other visualizations
+* It was not apparent to respendents that the intended call to action was that they realize that starting a business is an achievable goal
+* Most repondents wanted to see certain statistics which were not available/not shown
+* Overall, the intended message is not conveyed to users.I clearly spent too much time analyzing data and thinking about tools and software for visualizations and not enough time upfront making sure the intended story was being told clearly. 
 
-
-
-### Findings from your interviews
-
-* It was not apparent to testees that the intended call to action was that they realize that starting a business is an achievable goal.<br/>
-* I clearly spent too much time thinking about tools and software for visualizations and not enough time upfront making sure the intended story was being told clearly. 
-
-### Changes implemented to sketches, storyboards and wireframes to address the issues identified.
-* nn
-* bb
+### Changes to be implemented to wireframes
+* Focus story on what is relevant to 22-34 year olds?
+* Consider annotations and callouts to drive home salient points 
+* I noted that I need to use color and font more deliberately in my final output
 
