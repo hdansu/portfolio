@@ -69,7 +69,7 @@ I will also consider interactivity if it enhances my storytelling and I can find
 
 ## Story Outline
 
-![Storyboard](/storyboard.JPG)
+![Storyboard](/storyboard.jpg)
 
 ### Target audience
 
