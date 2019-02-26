@@ -46,9 +46,7 @@ I used Shorthand for my visual storytelling. I mostly used iframe/html to host d
 I also created charts using Tableau and Datawrapper but these were excluded from the final presentation
 
 
-
-##
-# Part II: Sketches, Storyboards, and Wireframes 
+# User Research: Part II 
 
 
 ## Draft story Outline
