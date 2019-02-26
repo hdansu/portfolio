@@ -1,29 +1,99 @@
+# Project Deliverable
 
-By the end of Part III, your final deliverable should be complete and publicly accessible if a digital asset (e.g. you've published your story on Shorthand, etc.)
+## Project Name: **Exploring the Entrepreneurship Landscape in America**
 
-Your final deliverable should include the following:
+## Data Story
+Final data story was hosted in [Shorthand.](https://carnegiemellon.shorthandstories.com/hdansu_entrepreneurship/index.html)
+<br/>
+A recap of the preceding project activities is below:
 
-A final project Github page that summarizes all the work you've done thus far to create your final project.  You don't need to re-write or recreate content you've already created for parts I and II of this assignment as long as it's organized in an easy-to-follow way.  This document should serve as a kind of "behind the scenes" look at how you created your work.  When reviewing Part III of your final assignment, I should be able to clearly follow along in your progress - noting how you used everything you've created in Part I and Part II to develop your final project. 
+## Project Planning: Part 1
 
-Your final project page should include links / references to everything you've used.  Make sure that your final project page includes all of the following, at a minimum: 
+## Structure
 
-The idea
+The intended structure of my story was as follows:<br/>
+**Setup:** Entrepreneurship is presented as a very narrow and specific process in terms of industry, founder background, and funding.<br/> 
+**Conflict:** Challenge perception by showing the scope of backgrounds who found businesses and do it in different ways.<br/>
+**Resolution:** Starting your own business is an achievable goal that the reader should consider.<br/>
 
-The project outline (Part I)
-'A high-level summary of your project.  (Part I)
-A project structure that outlines the major elements of your story. (Part I)
-A short paragraph that documents your data source(s), and an explanation of how you plan on using your data. (Part I)
-A link to the publicly-accessible data you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. (Part I)
-A few paragraphs summarizing your approach to the project (method and medium - Part I)
-Design and user research
+The final story that was told was very similar to what was intended
 
-Sketches and storyboards (Part II)
-User research protocol and findings (Part II)
-Wireframes (Part II)
-Final data story
+## Key Dates & Deadlines
 
-A few paragraphs that talk about the intended audience for your final data story.  Include any personas and / or other information you've used that helped you narrow the focus.  Talk about specific things you did to your final project to make it work for your audience. 
-A few paragraphs that summarize the work you've done so far.  Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process. (Part III)
-Include a link to your updated Github repository that includes a link to your final data story (e.g. a link to your Shorthand / StoryMap or other final project).  Make sure your data story is published and publicly accessible. (Part III)
-Add a link to your final data story (a direct link to Shorthand / StoryMap / etc.) placed in the final presentation spreadsheet here (Links to an external site.)Links to an external site..  Add the link next to your name in the spreadsheet, and update the title to reflect the working title for your presentation.  (Part III)
-Make sure to add / update any citations and / or other content that helps round out your data story. (Part III)
+![Project Timeline](/DataViz timeline.JPG)
+
+The planned milestones were mostly adhered to
+
+## The Data
+The project primarily used data from the US Census Bureau and The Kauffman Foundation. 
+
+Sources:<br/>
+United States Census Bureau. (2016). _Annual Survey of Entrepreneurs (ASE) - Company Summary: 2016 Tables_[Data files]. Retrieved from https://www.census.gov/data/tables/2016/econ/ase/allcompanytables.html
+
+United States Census Bureau. (2016). _Annual Survey of Entrepreneurs (ASE) - Characteristics of Businesses: 2016 Tables_[Data files]. Retrieved from https://www.census.gov/data/tables/2016/econ/ase/2016-ase-characteristics.html
+
+United States Census Bureau. (2016). _Annual Survey of Entrepreneurs (ASE) - Characteristics of Business Owners: 2016 Tables_[Data files]. Retrieved from https://www.census.gov/data/tables/2016/econ/ase/2016-ase-characteristics-of-businesses.html
+
+The Kauffman Index Entrepreneurship Series. https://www.kauffman.org/kauffman-index
+
+
+# Method and medium
+
+I used Shorthand for my visual storytelling. I mostly used iframe/html to host dynamic charts. I used a few static charts also. Charts were created using:
+* Plotly
+* Infogram
+
+I also created charts using Tableau and Datawrapper but these were excluded from the final presentation
+
+
+
+##
+# Part II: Sketches, Storyboards, and Wireframes 
+
+
+## Draft story Outline
+
+![Storyboard](/storyboard.jpg)
+
+### Target audience
+
+![Target Audience](/persona.JPG)
+
+
+## Sketches
+
+The first draft shown to respondents is below
+[Sketches shown to respondents](https://preview.shorthand.com/UKh7Q6wj7XydRGri)
+
+
+## User Research Plan
+
+[User research approach & script](/user_research_plan.md)
+
+
+## User Research Phase 1
+
+### Condensed findings from interviews
+* Respondents thought the story was to provide statistics on the state of entrepreneurship
+* The story felt "uneven" to most of the readers. The text introduction did not seem connected to the other visualizations
+* It was not apparent to respendents that the intended call to action was that they realize that starting a business is an achievable goal
+* Most repondents wanted to see certain statistics which were not available/not shown
+* Overall, the intended message is not conveyed to users.I clearly spent too much time analyzing data and thinking about tools and software for visualizations and not enough time upfront making sure the intended story was being told clearly. 
+
+### Changes to be implemented to wireframes
+* Focus story on what is relevant to 22-34 year olds?
+* Consider annotations and callouts to drive home salient points 
+* I noted that I need to use color and font more deliberately in my final output
+
+
+## User Research Phase 2
+I did a lot of work to analyze census data so I was eager to show all the data. However, respondents were not able to easily identify the message of the story. I cut those sections out and only showed data points relevant to 20-34 year olds. 
+
+### Condensed findings
+* Respondents could follow story more clearly however only showing data somehow muted the scale of the problem. For example, it wasn't clear to some that share of young people starting business had been trending downwards and was a generational problem. They perceived it as a "snapshot-in-time" problem
+* I initially did not want tot include a call to action. However most repondents found the story "informative." My interpretation of that was it would not be memorable
+
+### Changes implemented
+* Information for other age cohorts was included to give context. 20-34 year old highlighted on the chart to draw attention
+* Added a final section highlighting the message. It seemed ok to "tell" after I had "shown" the story.
+
